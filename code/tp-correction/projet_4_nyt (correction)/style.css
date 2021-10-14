@@ -1,0 +1,19 @@
+/*div, header, main, section {
+    border: 1px solid red;
+}*/
+
+nav.navbar .navbar-nav a.nav-link {
+    color: black;
+    font-size: 14px;
+}
+
+nav.navbar {
+    border-top: 1px solid #DDD;
+    border-width: thin;
+    border-bottom: double black;
+}
+
+h1, h2 {
+    font-size: 20px;
+    font-weight: bolder;
+}
